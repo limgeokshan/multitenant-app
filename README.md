@@ -8,9 +8,9 @@
 2. [MySql server](https://sourceforge.net/projects/wampserver/) to be installed on port 3306.
 
 ### Installation & Configuration:
-1.To be updated by 23 April 2020
 
-### To run application:
+
+### Run Application:
 1. Run the following scripts in mysql from `multitenant-app\mysql` : dbtenant1.sql, dbtenant2.sql, masterdb.sql
 2.	Open the project in eclipse IDE / any IDE of your choice. Click run.
 3. Access the application through the index page: `http://localhost:8080`
