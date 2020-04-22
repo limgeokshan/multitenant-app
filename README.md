@@ -5,7 +5,7 @@
 ### Requirements:
 1. [Eclipse IDE Version: 2019-12 (4.14.0); Build id: 20191212-1212](http://eclipse.org) or any IDE of your choice
 2. Maven 
-2. [MySql server] (https://sourceforge.net/projects/wampserver/) to be installed on port 3306.
+2. [MySql server](https://sourceforge.net/projects/wampserver/) to be installed on port 3306.
 
 ### Installation & Configuration:
 1.To be updated by 23 April 2020
@@ -17,5 +17,5 @@
 4. login credentials for tenant_1: abc_learning, user, pw
 5. login credentials for tenant_2: xyz_school, user, pw
 
-![Screenshot1 of Application]("app-ss1.jpg")
-![Screenshot2 of Application]("app-ss2.jpg")
+![Screenshot1 of Application](https://github.com/limgeokshan/multitenant-app/blob/master/app-ss1.jpg)<!-- .element height="50%" width="50%" -->
+![Screenshot2 of Application](https://github.com/limgeokshan/multitenant-app/blob/master/app-ss2.jpg)<!-- .element height="50%" width="50%" -->
