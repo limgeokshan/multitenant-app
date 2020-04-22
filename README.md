@@ -5,10 +5,10 @@
 ### Requirements:
 1. [Eclipse IDE Version: 2019-12 (4.14.0); Build id: 20191212-1212](http://eclipse.org) or any IDE of your choice
 2. Maven 
-2. [MySql server](https://sourceforge.net/projects/wampserver/) to be installed on port 3306.
+3. [MySql server](https://sourceforge.net/projects/wampserver/) to be installed on port 3306.
 
-### Installation & Configuration:
-
+### Installation & Configuration of Application:
+1. To be updated by 24 April 2020.
 
 ### Run Application:
 1. Run the following scripts in mysql from `multitenant-app\mysql` : dbtenant1.sql, dbtenant2.sql, masterdb.sql
